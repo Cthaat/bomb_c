@@ -7,9 +7,9 @@ struct node
     int cur;
 };
 
-int main ()
+int main()
 {
-    (struct node)arr[20];
+    (struct node) arr[20];
     for (int i = 1; i < 20; i++)
     {
         arr[i].cur = i + 1;
@@ -17,7 +17,7 @@ int main ()
     arr[19].cur = 0;
     arr[0].cur = -1;
     int i = arr[1].cur;
-    
+
     i = arr[0].cur;
     while (i != -1)
     {
