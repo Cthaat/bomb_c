@@ -130,10 +130,11 @@ int main()
     //     q = p;
     // }
     // q->next = head;
-
-    int a = 0;
-    int b = 0;
-    int c = 0;
+    
+    //?
+    //!
+    //*
+    //todo
 
     return 0;
 }
