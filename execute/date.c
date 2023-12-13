@@ -136,5 +136,7 @@ int main()
     //*
     //todo
 
+    int a = 0;
+
     return 0;
 }
